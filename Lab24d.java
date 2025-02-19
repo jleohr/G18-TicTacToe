@@ -1,4 +1,4 @@
-//© A+ Computer Science  -  www.apluscompsci.com
+//Â© A+ Computer Science  -  www.apluscompsci.com
 //Name -
 //Date -
 //Class -
@@ -12,7 +12,7 @@ public class Lab24d
 {
 	public static void main( String args[] ) throws IOException
 	{
-		Scanner file = new Scanner (new File("Lab24d.dat"));
+		Scanner file = new Scanner (new File("lab24d.dat"));
 
 
 
